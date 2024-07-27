@@ -1,6 +1,11 @@
+cffi==1.16.0
+numpy==2.0.1
 pillow==10.4.0
+pycparser==2.22
 PyQt5==5.15.11
 PyQt5-Qt5==5.15.14
 PyQt5_sip==12.15.0
 six==1.16.0
+sounddevice==0.4.7
+soundfile==0.12.1
 wxPython==4.2.1
